@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+saved_model/
+dataset/
+data.npy
+target.npy
